@@ -86,16 +86,19 @@ n8n community nodes for CalDAV.
 
 ## Stack
 
-| | |
+| Area | Tools and capabilities |
 |---|---|
-| **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation, Claude Code plugins and skills |
-| **AI tooling** | llama.cpp, local inference, OpenAI Whisper, ElevenLabs, Hugging Face Hub |
+| **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
+| **Models** | Claude, GPT, Codex, DeepSeek, Hermes, Llama |
+| **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
+| **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
+| **Speech and voice** | OpenAI Whisper, ElevenLabs |
 | **Automation** | n8n, workflow orchestration, web scraping and data extraction, API integration, webhooks, event-driven pipelines |
 | **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
 | **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
 | **Mobile** | Swift, SwiftUI, SwiftData |
 | **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
-| **Design** | Design systems, design tokens, component architecture |
+| **Design** | Design systems, design tokens, component architecture, OpenDesign, Claude Design |
 
 ---
 
@@ -145,4 +148,4 @@ Tell me what you're building. You will get a clear answer on fit, fast.
 - **LinkedIn** — [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
 - **X** — [@TeoBouancheau](https://x.com/TeoBouancheau)
 
-<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, custom software development, business automation, AI training for teams. Founder of Stellarwind.</sub>
+<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, business automation, AI training for teams. Founder of Stellarwind.</sub>
