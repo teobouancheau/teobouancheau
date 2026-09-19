@@ -2,7 +2,7 @@
 
 # Teo Bouancheau
 
-### AI Automation Consultant & AI Agent Developer
+### AI Engineer & Automation Consultant
 
 **AI harnesses · Agent orchestration · MCP servers · Custom software · Team AI training**
 
@@ -172,4 +172,4 @@ Currently available for inquiries.
 
 </div>
 
-<sub>Teo Bouancheau. AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
+<sub>Teo Bouancheau. AI engineer, AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
