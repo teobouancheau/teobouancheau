@@ -31,9 +31,10 @@ Then I train the teams who inherit the systems. Shipping the tool is half the wo
 - Full-stack products from interface to infrastructure
 - Hosted, shipped, and maintained — not prototyped and abandoned
 
-**Native apps**
+**Native and desktop apps**
 
 - On-device experiences in Swift and SwiftUI
+- Cross-platform desktop apps in Tauri, Rust, and Electron for macOS, Windows, and Linux
 - Local inference, no cloud round-trip, no latency tax
 
 **Design systems and web**
@@ -89,14 +90,15 @@ n8n community nodes for CalDAV.
 | Area | Tools and capabilities |
 |---|---|
 | **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
-| **Models** | Claude, GPT, Codex, DeepSeek, Hermes, Llama |
+| **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama |
 | **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
 | **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
-| **Speech and voice** | OpenAI Whisper, ElevenLabs |
+| **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
 | **Automation** | n8n, workflow orchestration, web scraping and data extraction, API integration, webhooks, event-driven pipelines |
 | **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
 | **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
 | **Mobile** | Swift, SwiftUI, SwiftData |
+| **Desktop** | Tauri, Electron, Rust, cross-platform builds for macOS, Windows, and Linux |
 | **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
 | **Design** | Design systems, design tokens, component architecture, OpenDesign, Claude Design |
 
@@ -148,4 +150,4 @@ Tell me what you're building. You will get a clear answer on fit, fast.
 - **LinkedIn** — [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
 - **X** — [@TeoBouancheau](https://x.com/TeoBouancheau)
 
-<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, business automation, AI training for teams. Founder of Stellarwind.</sub>
+<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
