@@ -6,7 +6,7 @@ I design, build, and deploy AI systems, automation, and custom software for foun
 
 Strategy to production, end to end.
 
-One person accountable for scoping, building, and shipping — instead of a hand-off between a strategist and an implementer.
+One person accountable for scoping, building, and shipping, instead of a hand-off between a strategist and an implementer.
 
 Then I train the teams who inherit the systems. Shipping the tool is half the work.
 
@@ -29,7 +29,7 @@ Then I train the teams who inherit the systems. Shipping the tool is half the wo
 **Custom software and SaaS products**
 
 - Full-stack products from interface to infrastructure
-- Hosted, shipped, and maintained — not prototyped and abandoned
+- Hosted, shipped, and maintained, not prototyped and abandoned
 
 **Native and desktop apps**
 
@@ -146,8 +146,8 @@ Currently available for inquiries.
 
 Tell me what you're building. You will get a clear answer on fit, fast.
 
-- **Web** — [stellarwind.io](https://stellarwind.io)
-- **LinkedIn** — [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
-- **X** — [@TeoBouancheau](https://x.com/TeoBouancheau)
+- **Web**: [stellarwind.io](https://stellarwind.io)
+- **LinkedIn**: [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
+- **X**: [@TeoBouancheau](https://x.com/TeoBouancheau)
 
-<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
+<sub>Teo Bouancheau. AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
