@@ -62,7 +62,7 @@ Agentic plugin that cuts token consumption and accelerates development.
 
 MCP server that extracts and manages YouTube video knowledge.
 
-- **2,000+ downloads on npm**
+- **2,000+ downloads** on [npm](https://www.npmjs.com/package/youtube-knowledge-mcp)
 - Transcripts, chapters, comments, and searchable knowledge bases
 - Works with Claude Desktop, Claude Code, and Cursor
 - Built in TypeScript
@@ -71,7 +71,7 @@ MCP server that extracts and manages YouTube video knowledge.
 
 MCP server for the TIDAL music streaming API.
 
-- **200+ downloads on npm**
+- **200+ downloads** on [npm](https://www.npmjs.com/package/tidal-mcp)
 - Built in TypeScript
 
 ### [n8n-nodes-caldav](https://github.com/teobouancheau/n8n-nodes-caldav)
@@ -86,71 +86,16 @@ n8n community nodes for CalDAV.
 
 ## Stack
 
-**AI engineering**
-
-- AI harness design
-- Multi-agent orchestration
-- Agentic workflows
-- MCP (Model Context Protocol) server development
-- Tool use and function calling
-- RAG and retrieval pipelines
-- Prompt engineering and evaluation
-- Claude Code plugins and skills
-- Local inference — llama.cpp
-- Speech to text — OpenAI Whisper
-- Voice synthesis — ElevenLabs
-- Hugging Face Hub
-
-**Automation**
-
-- n8n
-- Workflow orchestration
-- Web scraping and data extraction
-- API integration
-- Webhooks and event-driven pipelines
-
-**Frontend**
-
-- TypeScript
-- React
-- Next.js
-- Astro
-- Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
-
-**Backend and infrastructure**
-
-- Node.js
-- Python
-- FastAPI
-- Rust
-- PostgreSQL
-- Supabase
-- Payload CMS
-- Cloudflare Workers
-- REST and API design
-
-**Mobile**
-
-- Swift
-- SwiftUI
-- SwiftData
-
-**DevOps and deployment**
-
-- Docker
-- Vercel
-- Hetzner
-- Coolify
-- CI/CD
-
-**Design**
-
-- Design systems
-- Design tokens
-- Component architecture
+| | |
+|---|---|
+| **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation, Claude Code plugins and skills |
+| **AI tooling** | llama.cpp, local inference, OpenAI Whisper, ElevenLabs, Hugging Face Hub |
+| **Automation** | n8n, workflow orchestration, web scraping and data extraction, API integration, webhooks, event-driven pipelines |
+| **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
+| **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
+| **Mobile** | Swift, SwiftUI, SwiftData |
+| **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
+| **Design** | Design systems, design tokens, component architecture |
 
 ---
 
