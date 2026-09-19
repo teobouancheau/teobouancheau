@@ -2,7 +2,11 @@
 
 **AI automation consultant, AI agent developer, and founder of [Stellarwind](https://stellarwind.io).**
 
-I design, build, and deploy AI systems, automation, and custom software for founders, CEOs, and operators. Strategy to production, end to end. One person accountable for scoping, building, and shipping, instead of a hand-off between a strategist and an implementer.
+I design, build, and deploy AI systems, automation, and custom software for founders, CEOs, and operators.
+
+Strategy to production, end to end.
+
+One person accountable for scoping, building, and shipping — instead of a hand-off between a strategist and an implementer.
 
 Then I train the teams who inherit the systems. Shipping the tool is half the work.
 
@@ -10,64 +14,181 @@ Then I train the teams who inherit the systems. Shipping the tool is half the wo
 
 ## What I build
 
-**AI agents and MCP servers.** Assistants that complete real work instead of answering questions. Model Context Protocol servers that connect Claude, Cursor, and other clients to the tools a business actually runs on.
+**AI agents, harnesses, and MCP servers**
 
-**Business automation.** Repetitive manual operations turned into systems that run without anyone watching them.
+- Agents that complete real work instead of answering questions
+- Multi-agent orchestration, tool use, and evaluation harnesses
+- Model Context Protocol servers connecting Claude, Cursor, and other clients to the tools a business actually runs on
 
-**Custom software and SaaS products.** Full-stack products from interface to infrastructure, hosted and shipped, not prototyped and abandoned.
+**Business automation**
 
-**Native apps.** On-device experiences in Swift and SwiftUI. No cloud round-trip, no latency tax.
+- Repetitive manual operations turned into systems that run unattended
+- Workflow orchestration across the tools already in place
+- Data pipelines, scraping, and enrichment
 
-**Design systems and web.** Sites and component libraries built to load fast, rank, and stay consistent as the team grows.
+**Custom software and SaaS products**
 
-**AI training for teams.** Hands-on enablement on real workflows and real tooling. Not a slide deck.
+- Full-stack products from interface to infrastructure
+- Hosted, shipped, and maintained — not prototyped and abandoned
+
+**Native apps**
+
+- On-device experiences in Swift and SwiftUI
+- Local inference, no cloud round-trip, no latency tax
+
+**Design systems and web**
+
+- Component libraries and design tokens that stay consistent as the team grows
+- Sites built to load fast and rank
+
+**AI training for teams**
+
+- Hands-on enablement on the real workflows and the real tooling
+- Not a slide deck
 
 ---
 
 ## Open source
 
-| Project | What it does | Stack |
-|---|---|---|
-| [tokenstunt](https://github.com/teobouancheau/tokenstunt) | Agentic plugin that cuts token consumption and accelerates development | Rust |
-| [youtube-knowledge-mcp](https://github.com/teobouancheau/youtube-knowledge-mcp) | MCP server that extracts and manages YouTube video knowledge for Claude Desktop, Claude Code, and Cursor | TypeScript |
-| [tidal-mcp](https://github.com/teobouancheau/tidal-mcp) | MCP server for the TIDAL music streaming API | TypeScript |
-| [n8n-nodes-caldav](https://github.com/teobouancheau/n8n-nodes-caldav) | n8n community nodes for CalDAV: events, tasks, free/busy, and a polling trigger for iCloud, Google, Nextcloud, Fastmail, and any RFC 4791 server | TypeScript |
+### [tokenstunt](https://github.com/teobouancheau/tokenstunt)
+
+Agentic plugin that cuts token consumption and accelerates development.
+
+- Semantic code indexing and symbol-level retrieval
+- Built in Rust
+- Integrates with Claude Code
+
+### [youtube-knowledge-mcp](https://github.com/teobouancheau/youtube-knowledge-mcp)
+
+MCP server that extracts and manages YouTube video knowledge.
+
+- **2,000+ downloads on npm**
+- Transcripts, chapters, comments, and searchable knowledge bases
+- Works with Claude Desktop, Claude Code, and Cursor
+- Built in TypeScript
+
+### [tidal-mcp](https://github.com/teobouancheau/tidal-mcp)
+
+MCP server for the TIDAL music streaming API.
+
+- **200+ downloads on npm**
+- Built in TypeScript
+
+### [n8n-nodes-caldav](https://github.com/teobouancheau/n8n-nodes-caldav)
+
+n8n community nodes for CalDAV.
+
+- Events, tasks, free/busy, and a polling trigger
+- Works with iCloud, Google, Nextcloud, Fastmail, Radicale, and any RFC 4791 server
+- Built in TypeScript
 
 ---
 
 ## Stack
 
-**AI and agents** Model Context Protocol, llama.cpp, OpenAI Whisper, ElevenLabs, Hugging Face Hub
+**AI engineering**
 
-**Frontend** TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion
+- AI harness design
+- Multi-agent orchestration
+- Agentic workflows
+- MCP (Model Context Protocol) server development
+- Tool use and function calling
+- RAG and retrieval pipelines
+- Prompt engineering and evaluation
+- Claude Code plugins and skills
+- Local inference — llama.cpp
+- Speech to text — OpenAI Whisper
+- Voice synthesis — ElevenLabs
+- Hugging Face Hub
 
-**Backend and infrastructure** Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers
+**Automation**
 
-**Mobile** Swift, SwiftUI, SwiftData
+- n8n
+- Workflow orchestration
+- Web scraping and data extraction
+- API integration
+- Webhooks and event-driven pipelines
 
-**DevOps** Docker, Vercel, Hetzner, Coolify
+**Frontend**
 
-**Design** Design systems, design tokens
+- TypeScript
+- React
+- Next.js
+- Astro
+- Vite
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+
+**Backend and infrastructure**
+
+- Node.js
+- Python
+- FastAPI
+- Rust
+- PostgreSQL
+- Supabase
+- Payload CMS
+- Cloudflare Workers
+- REST and API design
+
+**Mobile**
+
+- Swift
+- SwiftUI
+- SwiftData
+
+**DevOps and deployment**
+
+- Docker
+- Vercel
+- Hetzner
+- Coolify
+- CI/CD
+
+**Design**
+
+- Design systems
+- Design tokens
+- Component architecture
 
 ---
 
 ## Who I work with
 
-Founders, CEOs, agency owners, and operators who have a process that is costing them hours and want it replaced by something that runs on its own, is documented, and can be extended in two years instead of rewritten.
+Founders, CEOs, agency owners, and operators.
 
-I have shipped AI systems into real estate brokerages, relocation agencies, and commercial real estate firms through Stellarwind, and the same patterns apply anywhere operations outgrow spreadsheets and manual follow-up.
+The common thread: a process that is costing hours every week, and a need to replace it with something that runs on its own, is documented, and can be extended in two years instead of rewritten.
+
+I have shipped AI systems into real estate brokerages, relocation agencies, and commercial real estate firms through Stellarwind. The same patterns apply anywhere operations outgrow spreadsheets and manual follow-up.
 
 ---
 
 ## Frequently asked
 
-**What does an engagement look like?** Scoping, then build, then deployment, then enablement for the team that will use it. Same person across all four.
+**What does an engagement look like?**
 
-**Do you only work on AI projects?** No. A lot of the highest-return work is plain automation and custom software with no model involved. If AI is not the right answer, I say so before you spend anything.
+Scoping, then build, then deployment, then enablement for the team that will use it.
 
-**Do you train teams as well as build?** Yes. Hands-on sessions on the actual workflows and tooling the team will use, not generic prompt-engineering theory.
+Same person across all four.
 
-**How do you work?** Remote, end to end. Currently available for inquiries.
+**Do you only work on AI projects?**
+
+No.
+
+A lot of the highest-return work is plain automation and custom software with no model involved. If AI is not the right answer, I say so before you spend anything.
+
+**Do you train teams as well as build?**
+
+Yes.
+
+Hands-on sessions on the actual workflows and tooling the team will use, not generic prompt-engineering theory.
+
+**How do you work?**
+
+Remote, end to end.
+
+Currently available for inquiries.
 
 ---
 
@@ -75,8 +196,8 @@ I have shipped AI systems into real estate brokerages, relocation agencies, and 
 
 Tell me what you're building. You will get a clear answer on fit, fast.
 
-- **Web** [stellarwind.io](https://stellarwind.io) — start a project
-- **X** [@TeoBouancheau](https://x.com/TeoBouancheau)
-- **LinkedIn** [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
+- **Web** — [stellarwind.io](https://stellarwind.io)
+- **LinkedIn** — [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
+- **X** — [@TeoBouancheau](https://x.com/TeoBouancheau)
 
-<sub>Teo Bouancheau — AI automation consultant, AI agent development, MCP server development, custom software development, AI training for teams. Founder of Stellarwind.</sub>
+<sub>Teo Bouancheau — AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, custom software development, business automation, AI training for teams. Founder of Stellarwind.</sub>
