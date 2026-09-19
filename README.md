@@ -100,7 +100,7 @@ n8n community nodes for CalDAV.
 | **Mobile** | Swift, SwiftUI, SwiftData |
 | **Desktop** | Tauri, Electron, Rust, cross-platform builds for macOS, Windows, and Linux |
 | **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
-| **Design** | Design systems, design tokens, component architecture, OpenDesign, Claude Design |
+| **Design** | Figma, Penpot, Storybook, design systems, design tokens, component architecture, OpenDesign, Claude Design |
 
 ---
 
