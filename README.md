@@ -1,14 +1,22 @@
+<div align="center">
+
 # Teo Bouancheau
 
-**AI automation consultant, AI agent developer, and founder of [Stellarwind](https://stellarwind.io).**
+### AI Automation Consultant & AI Agent Developer
 
-I design, build, and deploy AI systems, automation, and custom software for founders, CEOs, and operators.
+**AI harnesses · Agent orchestration · MCP servers · Custom software · Team AI training**
 
-Strategy to production, end to end.
+[Stellarwind](https://stellarwind.io) · [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
+
+</div>
+
+I design, build, and deploy AI systems, automation, and custom software for founders, CEOs, and operators. Strategy to production, end to end.
 
 One person accountable for scoping, building, and shipping, instead of a hand-off between a strategist and an implementer.
 
 Then I train the teams who inherit the systems. Shipping the tool is half the work.
+
+**2,200+ npm downloads · 4 open source projects · Founder of [Stellarwind](https://stellarwind.io)**
 
 ---
 
@@ -104,6 +112,16 @@ n8n community nodes for CalDAV.
 
 ---
 
+## Engineering principles
+
+- Fix root causes. No workarounds, no casts to silence an error.
+- Validate every input at the boundary with typed schemas.
+- Never hardcode. Enums, constants, and generated types instead of magic strings.
+- Rate limit every auth, generation, and write endpoint.
+- Ship production ready. No TODOs left behind, no placeholders.
+
+---
+
 ## Who I work with
 
 Founders, CEOs, agency owners, and operators.
@@ -142,12 +160,16 @@ Currently available for inquiries.
 
 ---
 
-## Contact
+<div align="center">
 
-Tell me what you're building. You will get a clear answer on fit, fast.
+### Something to automate, build, or ship?
 
-- **Web**: [stellarwind.io](https://stellarwind.io)
-- **LinkedIn**: [teo-bouancheau](https://www.linkedin.com/in/teo-bouancheau)
-- **X**: [@TeoBouancheau](https://x.com/TeoBouancheau)
+[**Start a project at stellarwind.io →**](https://stellarwind.io)
+
+[LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
+
+Currently available for inquiries.
+
+</div>
 
 <sub>Teo Bouancheau. AI automation consultant, AI agent development, AI harness and orchestration, MCP server development, local LLM deployment, custom software development, cross-platform desktop apps, business automation, AI training for teams. Founder of Stellarwind.</sub>
