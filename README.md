@@ -99,7 +99,7 @@ n8n community nodes for CalDAV calendars.
 | Area | Tools and capabilities |
 |---|---|
 | **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
-| **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama |
+| **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama, JEV |
 | **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
 | **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
 | **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
