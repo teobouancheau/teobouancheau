@@ -99,14 +99,14 @@ n8n community nodes for CalDAV calendars.
 | Area | Tools and capabilities |
 |---|---|
 | **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
-| **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama, JEV |
+| **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama, Jev |
 | **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
 | **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
 | **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
-| **Automation** | n8n, workflow orchestration, web scraping and data extraction, API integration, webhooks, event-driven pipelines |
+| **Automation** | Agentic workflows, n8n, workflow orchestration, web scraping, data extraction, API integration, webhooks, event-driven pipelines |
 | **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
 | **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
-| **Mobile** | Swift, SwiftUI, SwiftData |
+| **Mobile** | Swift, SwiftUI, SwiftData, React Native, Flutter |
 | **Desktop** | Tauri, Electron, Rust, cross-platform builds for macOS, Windows, and Linux |
 | **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
 | **Design** | Figma, Penpot, Storybook, design systems, design tokens, component architecture, OpenDesign, Claude Design |
