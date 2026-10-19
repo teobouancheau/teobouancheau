@@ -16,7 +16,7 @@ One person accountable for scoping, building, and shipping, instead of a hand-of
 
 Then I train the teams who inherit the systems. Shipping the tool is half the work.
 
-**2,300+ npm downloads · 4 open source projects · Founder of [Stellarwind](https://stellarwind.io)**
+**2,600+ npm downloads · 4 open source projects · Founder of [Stellarwind](https://stellarwind.io)**
 
 ---
 
@@ -71,7 +71,7 @@ Agentic plugin that cuts token consumption and accelerates development.
 
 MCP server that extracts and manages YouTube video knowledge.
 
-- **2,000+ downloads** on [npm](https://www.npmjs.com/package/youtube-knowledge-mcp)
+- **2,100+ downloads** on [npm](https://www.npmjs.com/package/youtube-knowledge-mcp)
 - Transcripts, chapters, comments, and searchable knowledge bases
 - Works with Claude Desktop, Claude Code, and Cursor
 - Built in TypeScript
@@ -80,14 +80,14 @@ MCP server that extracts and manages YouTube video knowledge.
 
 MCP server for the TIDAL music streaming API.
 
-- **200+ downloads** on [npm](https://www.npmjs.com/package/tidal-mcp)
+- **240+ downloads** on [npm](https://www.npmjs.com/package/tidal-mcp)
 - Built in TypeScript
 
 ### [n8n-nodes-caldav](https://github.com/teobouancheau/n8n-nodes-caldav)
 
 n8n community nodes for CalDAV calendars.
 
-- **100+ downloads** on [npm](https://www.npmjs.com/package/@teobouancheau/n8n-nodes-caldav)
+- **230+ downloads** on [npm](https://www.npmjs.com/package/@teobouancheau/n8n-nodes-caldav)
 - Events, tasks, free/busy, and a polling trigger
 - Works with Apple iCloud, Google, Nextcloud, Fastmail, Radicale, Baikal, and any RFC 4791 server
 - Built in TypeScript
