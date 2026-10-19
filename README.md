@@ -68,13 +68,6 @@ MCP server that extracts and manages YouTube video knowledge.
 - Works with Claude Desktop, Claude Code, and Cursor
 - Built in TypeScript
 
-### [tidal-mcp](https://github.com/teobouancheau/tidal-mcp)
-
-MCP server for the TIDAL music streaming API.
-
-- **240+ downloads** on [npm](https://www.npmjs.com/package/tidal-mcp)
-- Built in TypeScript
-
 ### [n8n-nodes-caldav](https://github.com/teobouancheau/n8n-nodes-caldav)
 
 n8n community nodes for CalDAV calendars.
@@ -82,6 +75,13 @@ n8n community nodes for CalDAV calendars.
 - **230+ downloads** on [npm](https://www.npmjs.com/package/@teobouancheau/n8n-nodes-caldav)
 - Events, tasks, free/busy, and a polling trigger
 - Works with Apple iCloud, Google, Nextcloud, Fastmail, Radicale, Baikal, and any RFC 4791 server
+- Built in TypeScript
+
+### [tidal-mcp](https://github.com/teobouancheau/tidal-mcp)
+
+MCP server for the TIDAL music streaming API.
+
+- **240+ downloads** on [npm](https://www.npmjs.com/package/tidal-mcp)
 - Built in TypeScript
 
 ### [tokenstunt](https://github.com/teobouancheau/tokenstunt)
