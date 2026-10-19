@@ -101,7 +101,7 @@ Agentic plugin that cuts token consumption and accelerates development.
 | **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
 | **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama, Jev |
 | **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
-| **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
+| **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Orca, Model Context Protocol |
 | **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
 | **Automation** | Agentic workflows, n8n, workflow orchestration, web scraping, data extraction, API integration, webhooks, event-driven pipelines |
 | **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Motion |
