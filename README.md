@@ -59,14 +59,6 @@ Then I train the teams who inherit the systems. Shipping the tool is half the wo
 
 ## Open source
 
-### [tokenstunt](https://github.com/teobouancheau/tokenstunt)
-
-Agentic plugin that cuts token consumption and accelerates development.
-
-- Semantic code indexing and symbol-level retrieval
-- Built in Rust
-- Integrates with Claude Code
-
 ### [youtube-knowledge-mcp](https://github.com/teobouancheau/youtube-knowledge-mcp)
 
 MCP server that extracts and manages YouTube video knowledge.
@@ -91,6 +83,14 @@ n8n community nodes for CalDAV calendars.
 - Events, tasks, free/busy, and a polling trigger
 - Works with Apple iCloud, Google, Nextcloud, Fastmail, Radicale, Baikal, and any RFC 4791 server
 - Built in TypeScript
+
+### [tokenstunt](https://github.com/teobouancheau/tokenstunt)
+
+Agentic plugin that cuts token consumption and accelerates development.
+
+- Semantic code indexing and symbol-level retrieval
+- Built in Rust
+- Integrates with Claude Code
 
 ---
 
