@@ -104,7 +104,7 @@ Agentic plugin that cuts token consumption and accelerates development.
 | **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Model Context Protocol |
 | **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
 | **Automation** | Agentic workflows, n8n, workflow orchestration, web scraping, data extraction, API integration, webhooks, event-driven pipelines |
-| **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Framer Motion |
+| **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Motion |
 | **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
 | **Mobile** | Swift, SwiftUI, SwiftData, React Native, Flutter |
 | **Desktop** | Tauri, Electron, Rust, cross-platform builds for macOS, Windows, and Linux |
