@@ -138,14 +138,14 @@ I have shipped AI systems into real estate brokerages, relocation agencies, and 
 **What does an engagement look like?**
 
 Scoping, then build, then deployment, then enablement for the team that will use it.
-
 Same person across all four.
 
 **Do you only work on AI projects?**
 
 No.
 
-A lot of the highest-return work is plain automation and custom software with no model involved. If AI is not the right answer, I say so before you spend anything.
+A lot of the highest-return work is plain automation and custom software with no model involved.
+If AI is not the right answer, I say so before you spend anything.
 
 **Do you train teams as well as build?**
 
@@ -156,8 +156,6 @@ Hands-on sessions on the actual workflows and tooling the team will use, not gen
 **How do you work?**
 
 Remote, end to end.
-
-Currently available for inquiries.
 
 ---
 
