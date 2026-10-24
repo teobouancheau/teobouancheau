@@ -6,7 +6,7 @@
 
 **AI harnesses · Agent orchestration · MCP servers · Custom software · Team AI training**
 
-[Stellarwind](https://stellarwind.io) · [Newsletter](https://stellarwind.ai/newsletter/subscribe) · [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
+[Work with me](https://stellarwind.io) · [Newsletter](https://stellarwind.ai/newsletter/subscribe) · [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
 
 </div>
 
