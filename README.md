@@ -6,7 +6,7 @@
 
 **AI harnesses · Agent orchestration · MCP servers · Custom software · Team AI training**
 
-[Stellarwind](https://stellarwind.io) · [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
+[Stellarwind](https://stellarwind.io) · [Newsletter](https://stellarwind.ai/newsletter/subscribe) · [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
 
 </div>
 
@@ -101,13 +101,13 @@ Agentic plugin that cuts token consumption and accelerates development.
 | **AI engineering** | AI harness design, multi-agent orchestration, agentic workflows, MCP server development, tool use and function calling, RAG and retrieval pipelines, prompt engineering and evaluation |
 | **Models** | Claude, GPT, Codex, DeepSeek, Mistral, Hermes, Llama, Jev |
 | **Local inference** | Ollama, LM Studio, llama.cpp, Hugging Face Hub |
-| **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Orca, Model Context Protocol |
+| **Agent and coding tooling** | Claude Code, Claude Code plugins and skills, Codex, OpenCode, Cursor, Orca, Model Context Protocol (MCP) |
 | **Speech and voice** | OpenAI Whisper, ElevenLabs, Fish Audio |
 | **Automation** | Agentic workflows, n8n, workflow orchestration, web scraping, data extraction, API integration, webhooks, event-driven pipelines |
-| **Frontend** | TypeScript, React, Next.js, Astro, Vite, Tailwind CSS, shadcn/ui, Motion |
-| **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
+| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, shadcn/ui, Motion |
+| **Backend** | Node.js, Python, FastAPI, Rust, PostgreSQL, Neon, Supabase, Payload CMS, Cloudflare Workers, REST and API design |
 | **Mobile** | Swift, SwiftUI, SwiftData, React Native, Flutter |
-| **Desktop** | Tauri, Electron, Rust, cross-platform builds for macOS, Windows, and Linux |
+| **Desktop** | Tauri, Electron, Rust, cross-platform apps for macOS, Windows, and Linux |
 | **DevOps** | Docker, Vercel, Hetzner, Coolify, CI/CD |
 | **Design** | Figma, Penpot, Storybook, design systems, design tokens, component architecture, OpenDesign, Claude Design |
 
@@ -125,7 +125,7 @@ Agentic plugin that cuts token consumption and accelerates development.
 
 ## Who I work with
 
-Founders, CEOs, agency owners, and operators.
+Business owners, CEOs, agency owners, founders and operators.
 
 The common thread: a process that is costing hours every week, and a need to replace it with something that runs on its own, is documented, and can be extended in two years instead of rewritten.
 
@@ -165,7 +165,7 @@ Currently available for inquiries.
 
 ### Something to automate, build, or ship?
 
-[**Start a project at stellarwind.io →**](https://stellarwind.io)
+[**Start your project →**](https://stellarwind.io)
 
 [LinkedIn](https://www.linkedin.com/in/teo-bouancheau) · [X](https://x.com/TeoBouancheau)
 
